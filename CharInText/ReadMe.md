@@ -1,0 +1,1 @@
+Enter a text and a char which you want to find how many times is met in the text.
