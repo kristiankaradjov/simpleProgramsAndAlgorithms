@@ -1,0 +1,1 @@
+Enter five numbers to find their sum and after that to show the number of digits in the Sum.

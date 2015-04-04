@@ -1,1 +1,1 @@
-# simpleProgramsAndAlgorithms
+Some simple programs and algorithms
