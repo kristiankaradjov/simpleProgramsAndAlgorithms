@@ -1,0 +1,1 @@
+Enter a number to find his exponent of 2, the digits the square number has and a sum of rising exponent till it's smaller than the number.
